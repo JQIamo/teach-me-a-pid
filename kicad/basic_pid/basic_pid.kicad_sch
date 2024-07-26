@@ -3957,6 +3957,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 187.96) (xy 92.71 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52bb0144-89c3-4afa-be79-2ab094343a19")
+	)
+	(wire
+		(pts
 			(xy 238.76 126.365) (xy 243.205 126.365)
 		)
 		(stroke
@@ -4877,6 +4887,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 187.96) (xy 102.87 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9170daa-d08c-4c1b-9c3c-a7b0853105b6")
+	)
+	(wire
+		(pts
 			(xy 231.14 68.58) (xy 232.41 68.58)
 		)
 		(stroke
@@ -5404,16 +5424,6 @@
 			(type default)
 		)
 		(uuid "d966e572-d78d-46e3-991e-f4f8379ecd98")
-	)
-	(wire
-		(pts
-			(xy 89.535 187.96) (xy 102.87 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d96b49a5-974d-4025-b388-ae4a048622ce")
 	)
 	(wire
 		(pts
@@ -6023,7 +6033,7 @@
 	)
 	(global_label "Error_signal"
 		(shape input)
-		(at 89.535 187.96 180)
+		(at 88.9 187.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6033,7 +6043,7 @@
 		)
 		(uuid "31affe7a-73c9-4e02-af5e-2ca2b34d2f62")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.2599 187.96 0)
+			(at 74.6249 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6507,6 +6517,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "INA849DR‎ "
+			(at 59.69 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbc87ac3-c836-4ee8-b2c3-eebe57e515f9")
 		)
@@ -6602,6 +6621,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 85.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1de63c0e-16d6-4174-9627-fcffd2f21516")
 		)
@@ -6681,6 +6709,15 @@
 		)
 		(property "DIGIKEY" "450-1572-ND"
 			(at 40.64 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1825289-1"
+			(at 40.64 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6790,6 +6827,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "PTL45-15O0-104B1"
+			(at 34.29 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "895f2aef-3c8f-4113-a13d-04aa2a7af99e")
 		)
@@ -6881,6 +6927,15 @@
 		)
 		(property "DIGIKEY" "450-1572-ND"
 			(at 40.64 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1825289-1"
+			(at 40.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7044,6 +7099,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 59.055 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e8067f7-98bc-428e-9a64-2dda446b359d")
 		)
@@ -7195,6 +7259,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "OPA189ID"
+			(at 62.23 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77c2a270-3e2e-4eec-a258-d51c07e7a4a8")
 		)
@@ -7290,6 +7363,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 234.95 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "220d4552-c367-4617-976d-3e0f15739adf")
 		)
@@ -7350,6 +7432,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 160.655 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 160.655 144.78 0)
 			(effects
 				(font
@@ -7437,6 +7528,15 @@
 		)
 		(property "DIGIKEY" "450-1572-ND"
 			(at 40.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1825289-1"
+			(at 40.64 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7549,6 +7649,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LM4040B50FTA"
+			(at 20.955 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85008433-aa90-4eeb-b656-d8eccdee12e1")
 		)
@@ -7635,6 +7744,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "PTL45-15O0-104B1"
+			(at 108.585 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07bef955-0d97-45ec-8002-c9ebda49fd20")
 		)
@@ -7706,6 +7824,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 267.97 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 267.97 80.01 0)
 			(effects
 				(font
@@ -7793,6 +7920,15 @@
 			)
 		)
 		(property "PARTNO" "OPA189ID"
+			(at 181.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "OPA189ID"
 			(at 181.61 142.24 0)
 			(effects
 				(font
@@ -7905,6 +8041,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "PTL45-15O0-104B1"
+			(at 179.07 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29489216-d94e-43b9-bba9-ed5fa39f629d")
 		)
@@ -7986,6 +8131,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 19.05 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3db4db8d-a4f9-446e-bf1b-2c0655145c54")
 		)
@@ -8046,6 +8200,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 249.555 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 249.555 124.46 0)
 			(effects
 				(font
@@ -8133,6 +8296,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 98.425 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "854d6188-68a4-40ee-b94a-c76763856cc1")
 		)
@@ -8194,6 +8366,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 20.955 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 20.955 152.4 0)
 			(effects
 				(font
@@ -8402,6 +8583,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 197.485 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9e5f398-8ef7-45a2-80a3-96b95a31e2f6")
 		)
@@ -8542,6 +8732,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 47.625 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89584117-5684-4298-b593-be2f2869558a")
 		)
@@ -8612,6 +8811,15 @@
 			)
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 48.895 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 48.895 74.93 0)
 			(effects
 				(font
@@ -8883,6 +9091,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 38.735 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3215b91d-9ddb-4024-a081-7157aa80fec2")
 		)
@@ -8962,6 +9179,15 @@
 		)
 		(property "DIGIKEY" "450-1572-ND"
 			(at 50.165 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1825289-1"
+			(at 43.815 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9127,6 +9353,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 119.38 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9d727e9-60a6-4a8d-ace1-bdd9a72917ac")
 		)
@@ -9197,6 +9432,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 196.215 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9e326d2-e60a-494a-ada9-818d32312136")
 		)
@@ -9254,6 +9498,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 249.555 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 249.555 135.89 0)
 			(effects
 				(font
@@ -9412,6 +9665,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "INA849DR‎ "
+			(at 60.96 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea167af7-40f4-49f4-a2ad-442822a94247")
 		)
@@ -9562,6 +9824,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 162.56 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcc02e41-2dbb-4770-93aa-a695c93ec223")
 		)
@@ -9640,6 +9911,15 @@
 			)
 		)
 		(property "PARTNO" "OPA189ID"
+			(at 127 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "OPA189ID"
 			(at 127 181.61 0)
 			(effects
 				(font
@@ -9752,6 +10032,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SLB1470"
+			(at 233.68 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ca18b59-1471-48ac-a4db-9ca9140eb221")
 		)
@@ -9848,6 +10137,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "OPA189ID"
+			(at 179.07 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6423dd6d-a0f8-469d-a444-0a953755a3db")
 		)
@@ -9925,6 +10223,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 278.13 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 278.13 80.01 0)
 			(effects
 				(font
@@ -10067,6 +10374,15 @@
 			)
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 213.36 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 213.36 91.44 0)
 			(effects
 				(font
@@ -10218,6 +10534,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 81.28 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95a28fa3-417d-4093-a7dd-1eb5d4c8c5c8")
 		)
@@ -10350,6 +10675,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 134.62 158.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d86fbda0-b8a3-4a9b-aad9-ef58d0378e1f")
 		)
@@ -10428,6 +10762,15 @@
 			)
 		)
 		(property "PARTNO" "OPA189ID"
+			(at 233.68 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "OPA189ID"
 			(at 233.68 80.01 0)
 			(effects
 				(font
@@ -10539,6 +10882,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BUF634AIDDAR"
+			(at 135.89 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "232a1882-47a6-4934-b5ef-3c191d8dff8d")
 		)
@@ -10637,6 +10989,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "1825289-1"
+			(at 40.64 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe590b84-1ca8-4fbe-8e09-47939b732a0a")
 		)
@@ -10675,7 +11036,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "743705e1-6956-49b8-bb20-9ff2b4a444fe")
 		(property "Reference" "TP3"
 			(at 201.295 138.303 0)
@@ -10687,7 +11047,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 201.295 140.843 0)
+			(at 193.548 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10714,6 +11074,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 199.39 142.24 0)
 			(effects
 				(font
@@ -10798,6 +11167,15 @@
 		)
 		(property "DIGIKEY" "PTL45-15O0-104B1-ND"
 			(at 152.1268 45.3038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PTL45-15O0-104B1"
+			(at 147.32 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10894,6 +11272,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 227.965 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4745239-a215-47de-be77-9ea747b8dc00")
 		)
@@ -10971,6 +11358,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 85.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a21f318a-1369-4b96-9f7f-4be960bf85c3")
 		)
@@ -11032,6 +11428,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 20.955 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 20.955 114.3 0)
 			(effects
 				(font
@@ -11108,6 +11513,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 249.555 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9075f305-ff41-468d-863a-f6180aa5521f")
 		)
@@ -11167,6 +11581,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 172.72 181.61 0)
 			(effects
 				(font
@@ -11392,6 +11815,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "OPA189ID"
+			(at 109.855 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d8f21a4-2bd6-44ec-815b-1cfa10e4b820")
 		)
@@ -11535,6 +11967,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 70.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 184.15 70.485 0)
 			(effects
 				(font
@@ -11759,6 +12200,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "PTL45-15O0-104B1"
+			(at 180.34 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e73d183-9efd-4a13-bef8-7fa692727e79")
 		)
@@ -11969,6 +12419,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 249.555 130.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aa6e52a-0ac6-478f-bee7-cbc285e6a9b6")
 		)
@@ -12112,6 +12571,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 213.36 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "734aeced-d73b-405b-9439-81fb4419b582")
 		)
@@ -12171,6 +12639,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 134.62 148.59 0)
 			(effects
 				(font
@@ -12304,6 +12781,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 19.05 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 19.05 67.31 0)
 			(effects
 				(font
@@ -12464,6 +12950,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SLB1470"
+			(at 150.495 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b30ca66-3bd6-49b1-82c8-4686652071b0")
 		)
@@ -12552,6 +13047,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b70b787-8042-4a36-9021-982a27434ca0")
 		)
@@ -12612,6 +13116,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 184.15 59.055 0)
 			(effects
 				(font
@@ -12698,6 +13211,15 @@
 		)
 		(property "PARTNO" "AC0805JR-071ML"
 			(at 182.88 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AC0805JR-071ML"
+			(at 182.88 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12838,6 +13360,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49ef2828-782c-4798-9cfc-8f0974b2da15")
 		)
@@ -12917,6 +13448,15 @@
 		)
 		(property "DIGIKEY" "450-1572-ND"
 			(at 116.205 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1825289-1"
+			(at 116.205 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13083,6 +13623,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 152.4 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39e3a148-9248-42da-b86e-135e118fce2d")
 		)
@@ -13142,6 +13691,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 142.875 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 134.62 142.875 0)
 			(effects
 				(font
@@ -13294,6 +13852,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 119.38 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa3dbbf8-a46a-4751-a15d-790027b30180")
 		)
@@ -13363,6 +13930,15 @@
 			)
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 212.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 212.09 142.24 0)
 			(effects
 				(font
@@ -13456,6 +14032,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0805JR-0710ML"
+			(at 182.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b5109f2-301a-46ee-8e86-50fbf732d5af")
 		)
@@ -13535,6 +14120,15 @@
 			)
 		)
 		(property "PARTNO" "OPA189ID"
+			(at 176.53 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "OPA189ID"
 			(at 176.53 29.21 0)
 			(effects
 				(font
@@ -13651,6 +14245,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LM4040B50FTA"
+			(at 20.955 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70a0516d-9e57-4c56-88cd-72eb87ac3188")
 		)
@@ -13711,6 +14314,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 184.15 64.77 0)
 			(effects
 				(font
@@ -13860,6 +14472,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a256e68f-6621-4666-a52e-a8cb03a6a247")
 		)
@@ -13929,6 +14550,15 @@
 			)
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 43.18 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 43.18 133.35 0)
 			(effects
 				(font
@@ -14152,6 +14782,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SLB1470"
+			(at 171.45 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3472bcb5-e806-4d67-bf2b-15da0b372204")
 		)
@@ -14220,6 +14859,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 134.62 134.62 0)
 			(effects
 				(font
@@ -14307,6 +14955,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 53.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92c0695b-001f-4ef3-a0d7-611452a8770a")
 		)
@@ -14385,6 +15042,15 @@
 			)
 		)
 		(property "DIGIKEY" "679-2621-ND"
+			(at 168.275 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SLB1470"
 			(at 168.275 60.96 0)
 			(effects
 				(font
@@ -14487,6 +15153,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BUF634AIDDAR"
+			(at 242.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04a546f1-96c7-4ce5-a1c3-acb8e95a2786")
 		)
@@ -14509,6 +15184,93 @@
 			(project "basic_pid"
 				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
 					(reference "U13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 96.52 187.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f16e78c7-c680-44c4-807e-45fc94d09448")
+		(property "Reference" "R37"
+			(at 93.218 187.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "3.3k"
+			(at 99.314 185.928 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 96.266 188.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "2019-RN73H2ATTD3301B25CT-ND"
+			(at 96.52 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 96.52 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d13a7e71-dc55-4ebe-827e-2f5e4f7ebbd8")
+		)
+		(pin "2"
+			(uuid "32fd7ccc-5028-45b7-ac41-97b2ce5a47b9")
+		)
+		(instances
+			(project "basic_pid"
+				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -14772,6 +15534,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 132.08 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dcae1a4c-ee28-450b-bab1-9b3ff5101a4c")
 		)
@@ -14917,6 +15688,15 @@
 			)
 		)
 		(property "DIGIKEY" "679-2621-ND"
+			(at 110.49 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SLB1470"
 			(at 110.49 179.07 0)
 			(effects
 				(font
